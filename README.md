@@ -1,2 +1,4 @@
 # Shell scripting
-In this repo I will add shell scripts that I made, acually this will have me progress in shell scripting
+# Projects in This Repository
+
+This repository contains various projects and examples that I have created while learning shell scripting. Each project demonstrates different aspects and capabilities of shell scripting, from basic to advanced levels.
